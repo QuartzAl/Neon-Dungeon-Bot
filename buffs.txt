@@ -1,0 +1,60 @@
+Torins Mirror - You get to go first.
+The Daedric Lantern - The opposing player may not use his highest rated stat.
+Gnomes Luck - Your opponent must play his lowest stat but its boosted by 35.
+Confusion Elixir - All your stat scores are reversed.
+The Bell Gem - Add an additional 5 points to any stat.
+Thorny Bane - Your highest stat is reduced by 5.
+Almighty Potion of Light - all your stats are boosted by 15.
+Nessian Horn Beatle - Your strength is boosted by 10.
+Harbingers Hex - All your stats are reduced by 5.
+Shield of Faith - You may not lose on your lowest rated stat.
+Deathtouch - You must use the .save command. A score of 1-3 results in immediate defeat. A score of 4-6 saves you and boosts all your stats by 15.
+Pink Cotton Candy - Reduces your Temper by 5 but increases your strength by 10.
+The Lucky Kitten - You gain plus 10 to which ever stat your opponent chooses.
+Wrong Side of the bed - You must play your Temper Stat but it's boosted by 15.
+Predatory Wurm - Your opponent takes - 5 to all stats.
+Centaurs Trample - Your opponents wisdom is lowered by 10.
+Herculean Bracers - Your wisdom is decreased by 20 but your strength is increased by 20.
+Miktars Might - If your strength is higher than 50 you get to go first.
+Dumb Luck - if your wisdom is less than 20 you get to go first.
+Strength in Numbers - If you own more than one Neon Dungeon Card all stats are boosted by 10.
+Undead Army - If you are a skeleton your strength is increased by 10.
+Like Water - If you are a Kobold your Agility is increased by 10.
+Dumb as a Pile of Rocks - If you are a Golem your wisdom is decreased by 10.
+Goblin’s Trap - Your opponent’s Agility is decreased by 15.
+Human Ingenuity - If you are a human your wisdom is increased by 10.
+Bladed Warrior - If you hold a sword, axe, dagger or scythe your strength is increased by 10.
+The Emperor - If you are wearing a crown, all stats are boosted by 20.
+Firgold’s Forest - If you are a goblin all your stats are boosted by 5.
+Honouree Gentleman - If you are wearing a hat, your wisdom and magic are boosted by 10.
+Boombastic - If you are holding Dynamite your strength is boosted by 20.
+Mages Guild - If you are wearing a wizards hat or holding a wand your magic is boosted by 10.
+Return to Nature - Kobolds and Golems gain +5 to Strength.
+Rise Again - You cannot lose on the first turn, but your opponent still gets to call a second time.
+The Phoenix - If you are a fire elemental, your wisdom is boosted by 5.
+Swamp Thing - If you are a leaf elemental, your strength is boosted by 5.
+Fluid Motion - If you are a water elemental, your Agility is boosted by 5.
+Shield of Lights - If you are holding a shield, all your stats are boosted by 10.
+Garak's Goblet - You may reroll your bonus stats if you wish.
+Gnarled Sage - If you are a goblin or a leaf elemental your temper increases by 15.
+Lobotomy - If your brain is exposed your wisdom is decreased by 10 but your Temper and Strength are increased by 15.
+Iron Bones - If you are a Skeleton your strength is boosted by 15.
+First Frosts - If you are a Kobold or Water Elemental your Agility is lowered by 10.
+Pickles Potion - Your opponent must reroll their bonus stats.
+Potion of the Undying - If you are a skeleton or have a wound you gain +10 Strength.
+Unfair Battle - If your opponent is a golem you gain +10 Wisdom.
+Pouch of Unlimited Giving - If you are wearing a backpack or satchel you get +5 to all stats.
+Black Cat’s Paw - You must reroll your bonus stats.
+Set to Stun - If you have lazer eyes you win by default.
+Uriul's Unicorn - If you have a rare skin you get +10 to all stats.
+Potion of Strength - You gain +5 to your strength stat.
+Potion of Agility - You gain +5 to your agility stat.
+Potion of Wisdom - You gain +5 to your wisdom stat.
+Potion of Magic - You gain +5 to your magic stat.
+Potion of Stubbed Toes - You gain +5 to your temper stat.
+Large Potion of Strength - You gain +10 to your strength stat.
+Large Potion of Agility - You gain +10 to your agility stat.
+Large Potion of Wisdom - You gain +10 to your wisdom stat.
+Large Potion of Magic - You gain +10 to your magic stat.
+Large Potion of Stubbed Toes - You gain +10 to your temper stat.
+The Crafty Warrior - If your agility is higher than 65 you get to go first.
