@@ -41,11 +41,11 @@ async def on_ready():
 
 
 @bot.command()
-async def invite(self, ctx):
+async def invite(ctx):
     embed = discord.Embed(
         title="Invite",
         colour=ctx.author.color,
-        url=f"https://discord.com/oauth2/authorize?client_id={self.bot.id}&scope=bot&permissions=8"
+        url=f"https://discord.com/oauth2/authorize?client_id={bot.user.id}&scope=bot&permissions=8"
     )
     await ctx.send(embed=embed)
 

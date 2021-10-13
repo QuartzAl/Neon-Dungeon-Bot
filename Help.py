@@ -28,9 +28,7 @@ class Help(commands.Cog):
             if command_list != '':
                 cog_name = self.bot.cogs[cog].qualified_name
 
-                cog_emojis = {"Fun": "🎉",
-                              "Blender52": "📚",
-                              "B52": "⚙"}
+                cog_emojis = {"Game": "🎲"}
                 try:
                     emoji = cog_emojis[cog_name]
                 except Exception as e:

@@ -27,7 +27,7 @@ class Game(commands.Cog):
 
         await ctx.send(message)
 
-    @commands.command()
+    @commands.command(alias=['turn'])
     async def save(self, ctx):
         save = random.randint(1, 6)
         await ctx.send(f"Your save roll is {save}!")
