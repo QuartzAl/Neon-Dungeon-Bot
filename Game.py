@@ -27,10 +27,15 @@ class Game(commands.Cog):
 
         await ctx.send(message)
 
-    @commands.command(aliases=['turn'])
+    @commands.command()
     async def save(self, ctx):
         save = random.randint(1, 6)
         await ctx.send(f"Your save roll is {save}!")
+
+    @commands.command()
+    async def turn(self, ctx):
+        turn = random.randint(1, 6)
+        await ctx.send(f"On this turn you rolled a {turn}!")
 
 
 def setup(bot):

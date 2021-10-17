@@ -1,60 +1,162 @@
-Torins Mirror - round is reset and all bonus stats are re-rolled, but this time you go first.
-The Daedric Lantern - The opposing player may not use his highest rated stat.
-Gnomes Luck - Your opponent must play his lowest stat but its boosted by 35.
-Confusion Elixir - All your stat scores are reversed.
-The Bell Gem - Add an additional 5 points to any stat.
-Thorny Bane - Your highest stat is reduced by 5.
-Almighty Potion of Light - all your stats are boosted by 15.
+Torins Mirror - If you are Player 2, you get to rechoose which stat is played.
+The Daedric Lantern - The opposing player may not use his highest rated stat this round.
+Gnomes Luck - Your opponent must play his lowest stat but it’s boosted by 25.
+Confusion Elixir - All your Stat scores are reversed. i.e. 85 becomes 58.
+The Bell Gem - Boost any Stat by 5.
+Thorny Bane - Your highest Stat is reduced by 10.
+Almighty Potion of Light - All your stats are boosted by 15.
 Nessian Horn Beatle - Your strength is boosted by 10.
-Harbingers Hex - All your stats are reduced by 5.
-Shield of Faith - You may not lose on your lowest rated stat.
+Harbingers Hex - All your stats are reduced by 10.
+Shield of Faith - Your opponent may not call your lowest rated stat on this turn.
 Deathtouch - You must use the .save command. A score of 1-3 results in immediate defeat. A score of 4-6 saves you and boosts all your stats by 15.
 Pink Cotton Candy - Reduces your Temper by 5 but increases your strength by 10.
 The Lucky Kitten - You gain plus 10 to which ever stat your opponent chooses.
 Wrong Side of the bed - You must play your Temper Stat but it's boosted by 15.
-Predatory Wurm - Your opponent takes - 5 to all stats.
-Centaurs Trample - Your opponents wisdom is lowered by 10.
-Herculean Bracers - Your wisdom is decreased by 20 but your strength is increased by 20.
-Miktars Might - If your strength is higher than 50 you get to go first.
-Dumb Luck - if your wisdom is less than 20 you get to go first.
-Strength in Numbers - If you own more than one Neon Dungeon Card all stats are boosted by 10.
-Undead Army - If you are a skeleton your strength is increased by 10.
-Like Water - If you are a Kobold your Agility is increased by 10.
+Predatory Wurm - All your opponent’s stats are reduced by 5.
+Centaurs Trample - Your opponent’s wisdom is reduced by 10.
+Herculean Bracers - Your wisdom is reduced by 20 but your strength is boosted by 20.
+Miktars Might - If your Strength is higher than 65 and you are Player 2, you get to rechoose the Stat. If you are Player 1, your Strength is boosted by 10.
+Dumb Luck - If your wisdom is less than 40 and you are Player 2, you get to rechoose the Stat. If you are Player 1, your Magic is boosted by 10.
+Strength in Numbers - If you own more than one Neon Dungeon Card all Stats are boosted by 10. You must provide proof.
+Undead Army - If you are a Skeleton your Strength is boosted by 10.
+Like Water - If you are a Kobold your Agility is boosted by 10.
 Dumb as a Pile of Rocks - If you are a Golem your wisdom is decreased by 10.
 Goblin’s Trap - Your opponent’s Agility is decreased by 15.
-Human Ingenuity - If you are a human your wisdom is increased by 10.
+Human Ingenuity - If you are a human your wisdom is boosted by 10.
 Bladed Warrior - If you hold a sword, axe, dagger or scythe your strength is increased by 10.
-The Emperor - If you are wearing a crown, all stats are boosted by 20.
-Firgold’s Forest - If you are a goblin all your stats are boosted by 5.
+The Emperor - If you are wearing a crown, all Stats are boosted by 20.
+Firgold’s Forest - If you are a Goblin all your stats are boosted by 5.
 Honouree Gentleman - If you are wearing a hat, your wisdom and magic are boosted by 10.
-Boombastic - If you are holding Dynamite your strength is boosted by 20.
-Mages Guild - If you are wearing a wizards hat or holding a wand your magic is boosted by 10.
-Return to Nature - Kobolds and Golems gain +5 to Strength.
-Rise Again - You cannot lose on the first turn, but your opponent still gets to call a second time.
-The Phoenix - If you are a fire elemental, your wisdom is boosted by 5.
-Swamp Thing - If you are a leaf elemental, your strength is boosted by 5.
-Fluid Motion - If you are a water elemental, your Agility is boosted by 5.
-Shield of Lights - If you are holding a shield, all your stats are boosted by 10.
-Garak's Goblet - You may reroll your bonus stats if you wish.
-Gnarled Sage - If you are a goblin or a leaf elemental your temper increases by 15.
+Boombastic - If you are holding Dynamite your Strength is boosted by 20.
+Mages Guild - If you are wearing a wizard’s hat or holding a wand your Magic is boosted by 10.
+Return to Nature - Kobolds and Golems gain +10 to Strength.
+Poison Toad - All you Stats are decreased by 10
+The Phoenix - If you are a fire elemental, your wisdom is boosted by 10.
+Swamp Thing - If you are a leaf elemental, your strength is boosted by 10.
+Fluid Motion - If you are a water elemental, your Agility is boosted by 10.
+Shield of Light - If you are holding a shield, all your Stats are boosted by 10.
+Garak's Goblet - You may reroll your bonus Stats if you wish.
+Gnarled Sage - If you are a Goblin or a leaf elemental your temper increases by 15.
 Lobotomy - If your brain is exposed your wisdom is decreased by 10 but your Temper and Strength are increased by 15.
-Iron Bones - If you are a Skeleton your strength is boosted by 15.
+Iron Bones - If you are a Skeleton your Strength is boosted by 10.
 First Frosts - If you are a Kobold or Water Elemental your Agility is lowered by 10.
-Pickles Potion - Your opponent must reroll their bonus stats.
-Potion of the Undying - If you are a skeleton or have a wound you gain +10 Strength.
-Unfair Battle - If your opponent is a golem you gain +10 Wisdom.
+Pickles Potion - Your opponent must reroll their bonus Stats.
+Potion of the Undying - If you are a Skeleton or have a wound you gain +10 Strength.
+Unfair Battle - If your opponent is a Golem you gain +10 Wisdom
 Pouch of Unlimited Giving - If you are wearing a backpack or satchel you get +5 to all stats.
-Black Cat’s Paw - You must reroll your bonus stats.
-Set to Stun - If you have lazer eyes you win by default.
-Uriul's Unicorn - If you have a rare skin you get +10 to all stats.
-Potion of Strength - You gain +5 to your strength stat.
-Potion of Agility - You gain +5 to your agility stat.
-Potion of Wisdom - You gain +5 to your wisdom stat.
-Potion of Magic - You gain +5 to your magic stat.
-Potion of Stubbed Toes - You gain +5 to your temper stat.
-Large Potion of Strength - You gain +10 to your strength stat.
-Large Potion of Agility - You gain +10 to your agility stat.
-Large Potion of Wisdom - You gain +10 to your wisdom stat.
-Large Potion of Magic - You gain +10 to your magic stat.
-Large Potion of Stubbed Toes - You gain +10 to your temper stat.
-The Crafty Warrior - If your agility is higher than 65 you get to go first.
+Black Cat’s Paw - You must reroll your Bonus Stats.
+Set to Stun - If you have lazer eyes you win the round by default.
+Uriul’s Unicorn - If you have a Rare Skin you get +10 to all Stats.
+Potion of Strength - You gain +5 to your Strength Stat.
+Potion of Agility - You gain +5 to your Agility Stat.
+Potion of Wisdom - You gain +5 to your Wisdom Stat.
+Potion of Magic - You gain +5 to your Magic Stat.
+Potion of Stubbed Toes - You gain +5 to your Temper Stat.
+Large Potion of Strength - You gain +10 to your Strength Stat.
+Large Potion of Agility - You gain +10 to your Agility Stat.
+Large Potion of Wisdom - You gain +10 to your Wisdom Stat.
+Large Potion of Magic - You gain +10 to your Magic Stat.
+Large Potion of Stubbed Toes - You gain +10 to your Temper Stat.
+The Crafty Warrior - If your Agility is higher than 65 and you are Player 2, you get to rechoose the Stat. If you are Player 1, your Agility is boosted by 10.
+Old Iron Buckler - Your Armour is boosted by 5.
+Surprise Attack - Your Armour is now 0.
+Polished Iron - Your Armour is 10.
+A Hearty Meal - Your Health is boosted by 10.
+Potion of Healing - Your Health is boosted by 20.
+Tainted Potion - Your Health is decreased by 10.
+The Common Man - If you are holding a Pipe, Broom or Baseball Bat your Strength is boosted by 10.
+Use the Force - If you are holding a Light Saber your Wisdom is increased by 20.
+Butcher of Bay Bridge - If you are holding a Ham, Bone or Cleaver you Wisdom is decreased by 10 but your Strength is boosted by 15.
+Eagle Eye - If you are holding a Bow, Shuriken or Sai your Agility is boosted by 5.
+Giant’s Bane - If you are holding the War Hammer, Halberd or Long Axe, your Strength is boosted by 10.
+Raging Bull - If your opponent has any red on them, your temper is boosted by 15.
+Lucky Charm - If you are wearing a Necklace your Magic is boosted by 10.
+Barren Wilderness - You may not play a Battle Card this Match.
+Empty Pockets - You may not play a Battle Card this Match.
+Tainted Leprechaun - You may not play a Battle Card this Match.
+Skilled Gamer - All saving throw requirements are reduced by 1 for the duration of the Match.
+Baldur’s Curse - You must use the .save command. A score of 1-2 results in immediate defeat. A score of 3-6 saves you and boosts all your stats by 10.
+Kobold Pit Trap - You must use the .save command. A score of 1-3 results in a decrease of 10 to all Stats.
+Golem Avalanche - You must use the .save command. A score of 1-3 results in a decrease of 15 to your Agility.
+Pit of Bones - You take fall damage, your Health is decreased by 10.
+Early Man - If you are a Human your Wisdom is decreased by 10, but your Strength is boosted by 15.
+Obsidian Heart Stone - Your Health is decreased by 10.
+Worn Out Boots - Your Agility is decreased by 10.
+Heckle’s Brew - All your Stats decrease by 10.
+Unknown Source of Power - Your opponent chooses one Stat to reduce by 10.
+Dark Magic - If you are holding a wand, all your stats are boosted by 10.
+Disgruntled Warlock - Your Magic Stat is decreased by 15.
+Heart and Mind - Your Wisdom Stat is equal to that of your Health.
+First Time Player - All saving throw requirements are increased by 1 for the duration of the Match.
+Wild Things - If you are a Goblin or Kobold your Temper is boosted by 5.
+Ensnared - Your Agility is decreased by 10.
+Parson’s Pearls of Wisdom - Your Wisdom is boosted by 10.
+Bard’s Tale - You must use the .save command. A score of 1-5 boosts the corresponding Stat by 5. A score of 6 boosts all Stats by 10.
+Thorny Thicket - Your health and Agility are both decreased by 10.
+Elemental Fire Pit - Your Health is decreased by 15. Unless you are a Fire Elemental, in which case your health is boosted by 10.
+Mando’s Bounty - Your Opponent automatically goes first next round.
+Blow to the Head - All your Stats are reversed. i.e., 85 becomes 58.
+Iron Gauntlets - Your Agility is decreased by 5 while your Strength is boosted by 10.
+Something in Common - If you are a Human or a Skeleton, you gain 5 Armour (For the Duration of the Match)
+Glotar’s Glory - The Hordes war cry spurs you on to victory. Roll a .save command. A score of 5-6 wins you the round.
+Gilded Talons - You may not play a Pay to Win Card this Match.
+Stolen Coin Pouch - You may not play a Pay to Win Card this Match.
+Pay Your Taxes - You may not play a Pay to Win Card this Match.
+You’re on Your Own - You may not play a Battle Card this Match.
+Impressive Dodge - Your Agility is boosted by 10 and your opponents Strength is decreased by 5.
+Rusted Blade - Your Strength is decreased by 10.
+Giddeons Rubix - You must play your Magic Stat this turn. (Only if not already played)
+Colossuses Chains - You must play your Strength Stat this turn. (Only if not already played)
+Poison Snare - You must play your Agility Stat this round. (Only if not already played)
+The Book of Unknowing - You must play your Wisdom Stat this round. (Only if not already played)
+Fool’s Errand - You must play your Temper Stat this round. (Only if not already played).
+Cursed Glory - Your Magic is decreased by 10.
+End of the Rainbow - Your Temper is decreased by 10.
+Scribbled Scroll - Your Wisdom is decreased by 10.
+Bear Trap - Your Agility is decreased by 10.
+Samsons Lie - Your Strength is decreased by 10.
+Kriel’s Broken Blade - Your Strength is decreased by 15 unless you are a Golem.
+Webbed Feet - Your Agility is decreased by 15 unless you are a Kobold.
+Hours in the Monastery - Your Wisdom is decreased by 15 unless you are a Human.
+Barbarian Battle Cry - Your Temper is decreased by 15 unless you are a Goblin.
+The Ancients Prayer - Your Magic is decreased by 15 unless you are a Skeleton.
+Turok’s Order - You must use the .save command. A score of 1-5 boosts the corresponding Stat by 5. A score of 6 boosts all Stats by 10.
+Eye of Newt - If Magic has not yet been played, make a saving throw. A score of 5-6 automatically wins the round. If Magic has already been played, all Stats are decreased by 5.
+Unnerved Adrenaline - You must use the .save command. A score of 6 grants your +50 Health.
+A Call to Arms- If you are holding a Sword, Axe or Hammer your Strength is increased by 10.
+The Red Herring - If you are holding a fish, you win this round.
+Seeping Venom - All your Stats are decreased by 5.
+Godric’s Belt - Your Agility and Magic are increased by 5.
+Flogon’s Rod - You must use the .save command. A score or 1-2 decreased all Stats by 5. A score of 3-4 boosts all stats by 5. A score of 5-6 has no effect.
+Hunters Sneak - Your Agility is increased by 10, but your Strength is decreased by 15.
+In the Shadows - If your opponent is a Human or Skeleton, your Magic is increased by 15.
+Unyielding Power - All your Stats are equal to that of your Strength.
+Spilt Cauldron - All your Stats are equal to that of your Magic.
+Uncontrollable - All your Stats are equal to that of your Temper.
+Yontor’s Charisma - Your lowest stat is equal to your Health.
+Unworked Steel - Your Strength is equal to your lowest Stat.
+A Gamblers Chance - You must use the .save command. A score of 1-3 and your opponent wins the round. A score of 4-6 and you win the round.
+Wolf’s Bite - Your Temper is increased by 10 but your wisdom is decreased by 15.
+Spiders Bite - Your Wisdom is decreased by 5.
+Torial’s Spiny Whip - Your Wisdom and Strength are decreased by 5.
+Bloodlust - If your health is higher than 100 all your stats are decreased by 10.
+Raegars Bow - Your Agility is increased by your Armour Score.
+Fine Minerals - Your Magic is increased by your Gem Score.
+Unstoppable - Your Strength is boosted by 20 but all other Stats are decreased by 10.
+Chaos Dagger - If you are Player 2 you can repick which stat is played.
+Magikarp - This Buff does nothing unless you have a Magic Stat of more than 90. If so, you gain +10 to all Stats.
+Hurried Attack - Your Agility is increased by 10 but all other stats are decreased by 5.
+Twisted Blades - If you are holding any bladed weapon your Strength and Temper are increased by 10.
+The Obscura - All your Stats are decreased by 10.
+Folly’s Flame - All your Stats are decreased by 5.
+Goblin Bomb - All your Stats are decreased by 15.
+Kobold Ambush - All your Stats are decreased by 10.
+Ruby Amulet - You go first on the next round.
+The Turning Tide - You go first on the next round.
+The Lucky Coin - You go first on the next round.
+Sildar’s Potion of Napping - Your opponent nods off, you get to go first next round.
+Pandemonium Potion - All your Stats are reduced by 15.
+Unholy Words - All your Stats are reduced by 10.
+The Crimson Letter - Your opponent chooses two stats to reduce by 10.
+Forked Tongue - Your opponent chooses two stats to reduce by 10.
+Stinging Nettles - All your stats are reduced by 5.
