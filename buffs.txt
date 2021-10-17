@@ -135,7 +135,7 @@ Spilt Cauldron - All your Stats are equal to that of your Magic.
 Uncontrollable - All your Stats are equal to that of your Temper.
 Yontor’s Charisma - Your lowest stat is equal to your Health.
 Unworked Steel - Your Strength is equal to your lowest Stat.
-A Gamblers Chance - You must use the .save command. A score of 1-3 and your opponent wins the round. A score of 4-6 and you win the round.
+A Gamblers Chance - You must use the .save command. A score of 1-3 and your opponent wins the round. A score of 4-6 and you win the round. If you had the lower score, you and your opponent must swap scores.
 Wolf’s Bite - Your Temper is increased by 10 but your wisdom is decreased by 15.
 Spiders Bite - Your Wisdom is decreased by 5.
 Torial’s Spiny Whip - Your Wisdom and Strength are decreased by 5.
