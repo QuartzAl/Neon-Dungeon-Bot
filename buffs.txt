@@ -8,7 +8,7 @@ Almighty Potion of Light - All your stats are boosted by 15.
 Nessian Horn Beatle - Your strength is boosted by 10.
 Harbingers Hex - All your stats are reduced by 10.
 Shield of Faith - Your opponent may not call your lowest rated stat on this turn.
-Deathtouch - You must use the .save command. A score of 1-3 results in immediate defeat. A score of 4-6 saves you and boosts all your stats by 15.
+Deathtouch - You must use the .save command. A score of 1-3 results in immediate defeat in this round as well as 25 Damage. A score of 4-6 saves you and boosts all your stats by 15.
 Pink Cotton Candy - Reduces your Temper by 5 but increases your strength by 10.
 The Lucky Kitten - You gain plus 10 to which ever stat your opponent chooses.
 Wrong Side of the bed - You must play your Temper Stat but it's boosted by 15.

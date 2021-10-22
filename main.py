@@ -17,9 +17,9 @@ bot.remove_command('help')
 
 
 # Blocks all Dms
-# @bot.check
-# async def globally_block_dms(ctx):
-#     return ctx.guild is not None
+@bot.check
+async def globally_block_dms(ctx):
+    return ctx.guild is not None
 
 
 # Load in all the Cogs when ready
