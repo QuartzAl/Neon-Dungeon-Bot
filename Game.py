@@ -5,6 +5,7 @@ from discord.ext import commands
 import discord
 import random
 import typing
+from opensea import get_assets
 
 
 class Game(commands.Cog):
@@ -47,9 +48,15 @@ class Game(commands.Cog):
 
     # TODO: Add challenge command, this adds new session in database for those two
     @commands.command()
-    async def challenge(self, ctx, user: discord.User):
+    async def challenge(self, ctx, user: discord.User,  wager: typing.Optional[int]):
         challenge_embed = discord.Embed(title=f"{ctx.author.display_name} Challenges you to a battle!",
                                         description="Do you accept?")
+        if wager is not None or wager >= 0:
+            challenge_embed.add_field(name="A wager has been proposed!",
+                                      value=f"This will automatically deduct {wager} "
+                                            "coins for both participants, until a winner has been found")
+
+
         message = await ctx.send(embed=challenge_embed)
         reactions = ['✅', '❌']
         for emoji in reactions:
@@ -64,6 +71,16 @@ class Game(commands.Cog):
             await ctx.send("Challenge invite declined")
         else:
             await ctx.send("Challenge invite accepted!")
+            await ctx.send("Please wait until both contestants are finished picking the card they want to use")
+
+            def user1(sent_message):
+                return sent_message.author == ctx.author
+
+            HP_1 = await self.bot.wait_for('message')
+            while not HP_1.isdigit():
+
+
+
 
     @commands.command()
     async def win(self, ctx, user: discord.User):
@@ -86,7 +103,13 @@ class Game(commands.Cog):
             await message.delete()
 
             if reaction.emoji == reactions[0]:
-                await ctx.send("We have a winner!")
+
+                await ctx.send(f"And the winner is {ctx.author.display_name}!!")
+                if random.randint(1, 10) == 1:
+                    await asyncio.sleep(1)
+                    responses = open("buffs.txt").readlines()
+                    response = responses[random.randrange(0, len(responses))]
+                    await ctx.send(response)
 
                 database_url = os.environ['DATABASE_URL']
                 connection = psycopg2.connect(database_url, sslmode='prefer')
