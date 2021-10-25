@@ -78,7 +78,7 @@ class Game(commands.Cog):
 
             HP_1 = await self.bot.wait_for('message')
             while not HP_1.isdigit():
-
+                pass
 
 
 
