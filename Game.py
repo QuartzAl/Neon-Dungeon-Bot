@@ -81,7 +81,6 @@ class Game(commands.Cog):
                 pass
 
 
-
     @commands.command()
     async def win(self, ctx, user: discord.User):
         """
