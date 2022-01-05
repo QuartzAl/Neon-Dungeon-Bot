@@ -1,0 +1,4 @@
+{
+  "races": ["goblin", "human", "golem", "kobold", "skeleton"],
+  "elements": ["fire", "leaf", "water"]
+}
