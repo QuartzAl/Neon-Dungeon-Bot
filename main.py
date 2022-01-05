@@ -8,8 +8,9 @@ import random
 
 # Declare the Intents
 intents = discord.Intents.default()
-# intents.members = True
-# intents.reactions = True
+intents.members = True
+intents.reactions = True
+intents.messages = True
 
 # Initialize the Bot class
 bot = commands.Bot(command_prefix=commands.when_mentioned_or('.'), case_insensitive=True, intents=intents)
@@ -17,9 +18,9 @@ bot.remove_command('help')
 
 
 # Blocks all Dms
-@bot.check
-async def globally_block_dms(ctx):
-    return ctx.guild is not None
+# @bot.check
+# async def globally_block_dms(ctx):
+#     return ctx.guild is not None
 
 
 # Load in all the Cogs when ready
